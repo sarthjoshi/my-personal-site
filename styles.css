@@ -1,0 +1,151 @@
+.bottom-container{
+  height: 200px;
+  background-color: #D3CEDF;
+
+}
+
+.cloud1{
+  position: absolute;
+  right: 400px;
+  top: 200px;
+}
+
+.cloud2{
+  position: absolute;
+  top: 420px;
+  left: 250px;
+
+}
+.top-container{
+  background-color: #F2F2F2;
+  height: 800px;
+}
+.developer-image{
+  position:absolute;
+  left:200px;
+  top: 70px;
+  height: 100px;
+  width: 100px;
+}
+.hi{
+  font-size: 30px;
+  position: relative;
+  top: 10px;
+  text-align: center;
+
+}
+.hr1{
+  margin-top: 40px;
+  width: 5%;
+  color: pink;
+  border-style: dotted;
+  border-width: thick 0px 0px 0px;
+}
+.hr2{
+  margin-top: 40px;
+  width: 5%;
+  color: pink;
+  border-style:dashed;
+  border-width: medium 0px 0px 0px;
+  position: absolute;
+  top: 1370px;
+  margin-left: 550px;
+}
+.hr3{
+  width: 5%;
+  color: pink;
+  border-style:dashed;
+  border-width: medium 0px 0px 0px;
+  position: relative;
+  left: 45px;
+
+}
+.intro{
+  position: absolute;
+  top: 350px;
+  left:590px;
+  font-family: cursive;
+  font-size: 20px;
+}
+.mountain-image{
+  position: absolute;
+  left:320px;
+  top: 507px;
+
+}
+.middle-container{
+  height: 1600px;
+}
+.my-intro{
+/*  font-size: 10px;*/
+  position: relative;
+  top: 10px;
+  text-align: center;
+}
+.message{
+  margin: 50px auto 0px auto;
+  height: 30px;
+  background-color: #76BA99;
+  text-align: center;
+  width: 10%;
+  border-radius: 2%;
+}
+.name{
+  position: absolute;
+  top: 250px;
+  left:550px;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 50px;
+}
+.smile-image{
+  position: relative;
+  height: 150px;
+  width: 150px;
+  left: 675px;
+  margin: 0px auto opx auto;
+
+}
+
+.img1{
+  height: 150px;
+  width: 150px;
+  margin: 10px 350px;
+
+}
+.img2{
+  height: 170px;
+  width: 170px;
+  margin: 10px 0px 0px 350px;
+  position: absolute;
+  right: 400px;
+}
+
+.p1{
+    position: relative;
+    bottom: 150px;
+    margin-left: 700px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.p2{
+  position: relative;
+  top: 70px;
+  margin-left: 300px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.p1-1{
+  margin-left: 20px;
+  font-size: 30px;
+  color: grey;
+  position: relative;
+  bottom: 10px;
+}
+.last{
+
+  background-color: white;
+  display: inline;
+  position: relative;
+  top: 100px;
+  left:600px;
+}
